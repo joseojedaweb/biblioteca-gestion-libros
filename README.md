@@ -4,6 +4,30 @@ Aplicación web desarrollada en **Laravel 11** para la gestión de una bibliotec
 
 ---
 
+📸 Capturas de pantalla
+
+### 🔑 Login y Registro
+<p align="center">
+  <img src="screenshots/login.png" alt="Pantalla de login" width="400">
+  <img src="screenshots/register.png" alt="Pantalla de registro" width="400">
+</p>
+
+### 🏠 Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Panel principal" width="700">
+</p>
+
+### 📚 Gestión de Libros
+<p align="center">
+  <img src="screenshots/libros.png" alt="Listado de libros" width="700">
+</p>
+
+### 📖 Gestión de Préstamos
+<p align="center">
+  <img src="screenshots/prestamos.png" alt="Listado de préstamos" width="700">
+</p>
+
+
 ## 🧰 Tecnologías utilizadas
 - **Laravel** 11 (`laravel/framework ^11.31`), **PHP ≥ 8.2**
 - **Laravel Breeze** (autenticación con Blade + Tailwind + Alpine)
