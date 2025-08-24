@@ -14,7 +14,7 @@ Aplicación web desarrollada en **Laravel 11** para la gestión de una bibliotec
 
 ### 🏠 Dashboard
 <p align="center">
-  <img src="screenshots/panel-principal" alt="Panel principal" width="700">
+  <img src="screenshots/panel-principal.png" alt="Panel principal" width="700">
 </p>
 
 ### 📚 Gestión de Libros
