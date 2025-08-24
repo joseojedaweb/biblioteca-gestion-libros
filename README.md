@@ -1,6 +1,9 @@
 # 📚 Biblioteca Inglés – Laravel 11
 
-Aplicación web desarrollada en **Laravel 11** para la gestión de una biblioteca escolar: administración de libros (con precarga por ISBN), gestión de préstamos y listado de préstamos, con autenticación.
+Pequeña aplicación CRUD simple desarrollada en Laravel 11 para la gestión de una biblioteca escolar.
+Incluye la administración de libros (con precarga por ISBN desde OpenLibrary), la gestión de préstamos y el listado de préstamos, además de autenticación con Laravel Breeze.
+
+Este es un proyecto educativo, desarrollado con el objetivo de practicar y afianzar conocimientos en Laravel y bases de datos.
 
 ---
 
